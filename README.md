@@ -85,16 +85,6 @@ const bikash = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhakal009&theme=tokyonight&no-frame=true&row=2&column=4" />
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - ⚛️ React.js
@@ -131,7 +121,7 @@ const bikash = {
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:bikashdhakal546@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
